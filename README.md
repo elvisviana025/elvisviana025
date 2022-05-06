@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou @elvisviana025
-- 👀 Eu tenho interesse em desenvolvimento front-end
-- 🌱 No momento estou praticando HTML, CSS e JavaScript
+- 👀 Eu tenho interesse em ciência de dados
+- 🌱 No momento estou praticando Python 🐍
 - 📫 Como entrar em contato: linkedin.com/in/elvis-bezerra-viana-042a35224/
 ##
 
