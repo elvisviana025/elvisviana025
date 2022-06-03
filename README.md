@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou @elvisviana025
 - 👀 Eu tenho interesse em ciência de dados
 - 🌱 No momento estou praticando Python 🐍
-- 📫 Como entrar em contato: [meu perfil no Linkedin](www.linkedin.com/in/elvis-bezerra-viana/)
+- 📫 Como entrar em contato: <a href="https://www.linkedin.com/in/elvis-bezerra-viana/" target="_blank">meu perfil no Linkedin</a> 
 ##
 
 <div align="center">
